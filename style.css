@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML and CSS Practice Assignment</title>
+    <link rel="stylesheet" href="./style.css">
+
+  </head>
+    
+  <body>
+  <!-- Pick a theme! Racecar driver, archeologist, astronaut -->
+<!-- Add your HTML tags here -->
+<header>
+  <!-- Change the title to match your theme -->
+  <h1>My Recent Accomplishments</h1>
+</header>
+
+<main>
+   <!-- Section 1 -->
+  <section>Happend this week
+    <!-- Add a title for your latest accomplishment here -->
+    <h2>New car</h2>
+    <!-- Add a few details about this accomplishment -->
+    <p>I got a project car to work on it was a 82 Camaro that I am building.
+      
+    </p>
+  </section>
+  <!-- Section 2 -->
+   <section> Thank you to schooling
+    <!-- Add a title for another accomplishment here -->
+    <h2>Learning css with html</h2>
+    <!-- Add a few details about this accomplishment -->
+    <p>I knew a lot of basic html but I never knew css what what made it look so good I am glad to be learning it
+      
+    </p>
+  </section>
+  <!-- Section 3 -->
+    <section>Happend at the beginning of school 
+    <!-- Add a title for yet another accomplishment here -->
+    <h2>Joined the gaming club at uat</h2>
+    <!-- Add a few details about this accomplishment -->
+    <p>I joined a UAT club and am trying out for the team I hope I make it 
+      
+    </p>
+  </section>
+</main>
+    
+  </body>
+  
+</html>
